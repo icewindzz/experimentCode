@@ -1,0 +1,6 @@
+-*- mode: compilation; default-directory: "/tmp/zzhao010/experimentCode/StackAndQueue/" -*-
+Compilation started at Wed Oct 22 23:56:25
+
+g++ -g -Wall TowerOfHanoi.cpp 
+
+Compilation finished at Wed Oct 22 23:56:26
